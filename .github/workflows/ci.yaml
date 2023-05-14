@@ -25,5 +25,3 @@ jobs:
         with:
           push: false
           tags: thiagoianino10/github-action-go:latest
-
-    
